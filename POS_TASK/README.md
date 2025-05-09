@@ -98,9 +98,5 @@ Use Jupyter or VS Code to run the notebook interactively.
 **Hajar Elbehairy**
 [GitHub](https://github.com/HajarElbehairy) | [LinkedIn](https://www.linkedin.com/in/hajar-elbehairy)
 
----
 
-```
 
-Let me know if you'd like to auto-generate the `requirements.txt` file from the notebooks.
-```
