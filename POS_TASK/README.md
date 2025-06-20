@@ -1,6 +1,4 @@
-Thanks for sharing your notebooks! Based on your use of **Arabic data**, which adds linguistic complexity, and your implementation of **Hugging Face models** and **LSTM**, here's an updated and accurate `README.md` that highlights the advanced nature of your work:
 
----
 
 ```markdown
 # POS_TASK - Arabic POS Tagging (NLP ITI Project)
